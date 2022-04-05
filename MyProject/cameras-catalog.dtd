@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+        <!ELEMENT catalog (brand_info,cameras)>
+        <!ELEMENT cameras (camera+)>
+        <!ELEMENT camera (brand_info,model,price,color,image,features,
+                physical-specifications,power_supply)>
+        <!ELEMENT model (#PCDATA)>
+        <!ELEMENT price (#PCDATA)>
+        <!ELEMENT color (#PCDATA)>
+        <!ELEMENT image (#PCDATA)>
+        <!ELEMENT features (effective_pixels,wi-fi,processor,display,video)>
+        <!ELEMENT physical-specifications (size,weight)>
+        <!ELEMENT power_supply (battery,energy_saving,charger)>
+        <!ELEMENT effective_pixels (#PCDATA)>
+        <!ELEMENT wi-fi (#PCDATA)>
+        <!ELEMENT processor (#PCDATA)>
+        <!ELEMENT display (#PCDATA)>
+        <!ELEMENT video (#PCDATA)>
+        <!ELEMENT size (#PCDATA)>
+        <!ELEMENT weight (#PCDATA)>
+        <!ELEMENT battery (#PCDATA)>
+        <!ELEMENT energy_saving (#PCDATA)>
+        <!ELEMENT charger (#PCDATA)>
+        <!ELEMENT brand_info (brand,realise_date)>
+        <!ELEMENT brand (#PCDATA)>
+        <!ELEMENT realise_date (#PCDATA)>
+
+        <!ATTLIST weight w_unit CDATA #REQUIRED>
+        <!ATTLIST size s_unit CDATA #REQUIRED>
+        <!ATTLIST wi-fi has (Yes|No) "No">
+        <!ATTLIST effective_pixels px CDATA #REQUIRED>
+        <!ATTLIST price currency CDATA #REQUIRED>
+        <!ATTLIST camera
+                resistance (water-proof|dust-proof|water-dust-proof) #REQUIRED
+                type CDATA #REQUIRED>
+        <!ATTLIST video max-duration CDATA #REQUIRED>
+

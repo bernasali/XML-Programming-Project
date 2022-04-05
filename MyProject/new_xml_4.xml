@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalog SYSTEM "cameras-catalog.dtd">
+
+<catalog>
+    <brand_info>
+        <brand>Nikon</brand>
+        <realise_date>25.07.1917</realise_date>
+    </brand_info>
+
+    <cameras>
+        <camera type="DSLR" resistance="dust-proof">
+            <brand_info>
+                <brand>Nikon</brand>
+                <realise_date>24.08.2017</realise_date>
+
+            </brand_info>
+            <model>D850</model>
+            <price currency="лв">5 299</price>
+            <color>Черен</color>
+            <image>camera_images/nikon-d850.jpg</image>
+
+            <features>
+
+                <effective_pixels px="мегапиксела">45</effective_pixels>
+                <wi-fi has="Yes"/>
+                <processor>AL</processor>
+                <display>сензорен TFT LCD с приблизително 2 359 000 точки</display>
+                <video max-duration="29:59">4K UHD</video>
+
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">146 x 124 x 78,5</size>
+                <weight w_unit="g">1 005</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия EN-EL15b</battery>
+                <energy_saving>Захранването се изключва след 1, 3, 5, 10 или 30 минути</energy_saving>
+                <charger> Захранващ адаптер EH-5c/EH-5b; изисква конектор за захранването EP-5B </charger>
+            </power_supply>
+
+
+        </camera>
+
+
+        <camera type="Compact" resistance="dust-proof">
+
+            <brand_info>
+                <brand>Nikon</brand>
+                <realise_date>23.02.2016</realise_date>
+            </brand_info>
+
+            <model>COOLPIX B500</model>
+            <price currency="лв">500</price>
+            <color>Пурпурен</color>
+            <image>camera_images/Nikon_COOLPIX B500.jpg</image>
+
+            <features>
+
+                <effective_pixels px="мегапиксела">16</effective_pixels>
+                <wi-fi has="Yes"/>
+                <processor>AF-S обектив тип G с вграден процесор и бийонет F</processor>
+                <display>TFT LCD дисплей, с приблизително 921 000 точки</display>
+                <video max-duration="1:30:00">H.264/MPEG-4 AVC</video>
+
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">113,5 x 78,3 x 94,9</size>
+                <weight w_unit="g">542</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>4 акумулаторни никел-метал-хидридни батерии EN-MH2</battery>
+                <energy_saving>Захранването се изключва след 3, 5, 10 или 30 минути</energy_saving>
+                <charger>захранващ адаптер EH-67/EH-67s</charger>
+            </power_supply>
+
+
+        </camera>
+
+        <camera type="mirrorless" resistance="dust-proof">
+
+            <brand_info>
+                <brand>Nikon</brand>
+                <realise_date>23.07.2021</realise_date>
+            </brand_info>
+
+            <model>Z fc</model>
+            <price currency="лв">1999</price>
+            <color>Черен/сребрист</color>
+            <image>camera_images/nikon-z-fc.jpg</image>
+
+            <features>
+
+                <effective_pixels px="мегапиксела">20</effective_pixels>
+                <wi-fi has="Yes"/>
+                <processor>AF-S обектив тип G с вграден процесор и бийонет F</processor>
+                <display>7сензорен TFT LCD с приблизително 1 040 000 точки</display>
+                <video max-duration="59:59">4K UHD</video>
+
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">134,5 x 93,5 x 43,5 </size>
+                <weight w_unit="g">545</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия EN-EL25</battery>
+                <energy_saving>Захранването се изключва след  3, 5, 10 минути</energy_saving>
+                <charger>Захранващ AC адаптер EH-7P </charger>
+            </power_supply>
+
+
+        </camera>
+
+
+    </cameras>
+
+</catalog>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="txt/xsl" href="xml_txt_1.xsl" ?>
+<!DOCTYPE catalog SYSTEM "cameras-catalog.dtd">
+
+<catalog>
+    <brand_info>
+        <brand>Canon</brand>
+        <realise_date>10.09.1937</realise_date>
+    </brand_info>
+
+    <cameras>
+        <camera type="DSLR" resistance="dust-proof">
+
+            <brand_info>
+                <brand>Canon</brand>
+                <realise_date>01.04.2017</realise_date>
+            </brand_info>
+
+            <model>EOS 800D</model>
+            <price currency="лв"> 1200</price>
+            <color>Черен</color>
+            <image>camera_images/Canon_EOS_800D.jpg</image>
+
+            <features>
+                <effective_pixels px="мегапиксела"> 24 </effective_pixels>
+                <wi-fi has="Yes"/>
+                <processor>DIGIC 7</processor>
+                <display>Clear View II TFT</display>
+                <video max-duration="29:59">MP4 (видео: H.264 вътрекадрова / междукадрова компресия, звук: линеен PCM / AAC, нивото на записвания звук може да се настройва ръчно от потребителя)</video>
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm"> 131,0 x 99,9 x 76,2</size>
+                <weight w_unit="g">532</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия LP-E17</battery>
+                <energy_saving>Захранването се изключва след 10/30 s</energy_saving>
+                <charger>Захранващ адаптер AC-E6(N), DC съединител: DR-E18, Зарядно устройство LC-E17</charger>
+            </power_supply>
+
+        </camera>
+
+
+        <camera type="Compact" resistance="dust-proof">
+
+            <brand_info>
+                <brand>Canon</brand>
+                <realise_date>02.08.2019</realise_date>
+            </brand_info>
+
+            <model>PowerShot G7 X Mark III</model>
+            <price currency="лв"> 1040</price>
+            <color>Черен</color>
+            <image>camera_images/canon-powershot-g7-x-mark-ii.jpg</image>
+
+            <features>
+                <effective_pixels px="мегапиксела"> 20 </effective_pixels>
+                <wi-fi has="Yes"/>
+                <processor>DIGIC 8</processor>
+                <display>сензорен LCD (TFT)</display>
+                <video max-duration="29:59">4K/HD/Full HD</video>
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">105,5 x 60,9 x 41,4</size>
+                <weight w_unit="g">304</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия NB-13L</battery>
+                <energy_saving>Няма</energy_saving>
+                <charger> Зареждане чрез USB, достъпно с USB захранващ адаптер PD-E1</charger>
+            </power_supply>
+
+        </camera>
+
+
+        <camera type="mirrorless" resistance="water-dust-proof">
+
+            <brand_info>
+                <brand>Canon</brand>
+                <realise_date>07.12.2021</realise_date>
+            </brand_info>
+
+            <model>EOS R3</model>
+            <price currency="лв"> 9740</price>
+            <color>Черен</color>
+            <image>camera_images/canon-eos-r3.jpg</image>
+
+            <features>
+
+                <effective_pixels px="мегапиксела"> 24 </effective_pixels>
+                <wi-fi has="Yes"/>
+                <processor>DIGIC X</processor>
+                <display>Clear View LCD II</display>
+                <video max-duration="6:00:00">MP4 видео/4K/Full HD/6K RAW</video>
+
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">150 x 142,6 x 87,2</size>
+                <weight w_unit="g">822</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия LP-E19 </battery>
+                <energy_saving>Изключване на захранването след 15 секунди, 30 секунди, 1, 3, 5, 10 или 30 минути</energy_saving>
+                <charger> Зарядно устройство за батерии LC-E19E , AC адаптер AC-E19 и DC съединител DR-E19, PD-E1 USB захранващ адаптер</charger>
+            </power_supply>
+
+
+        </camera>
+
+    </cameras>
+
+</catalog>

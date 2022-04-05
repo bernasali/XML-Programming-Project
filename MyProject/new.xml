@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE catalog SYSTEM "cameras-catalog.dtd">
+
+<catalog>
+       <brand_info>
+           <brand>Canon</brand>
+           <realise_date>10.09.1937</realise_date>
+       </brand_info>
+
+    <cameras>
+    <camera type="mirrorless" resistance="water-dust-proof">
+        <brand_info>
+            <brand>Canon</brand>
+            <realise_date>09.07.2020</realise_date>
+
+        </brand_info>
+            <model>EOS R5</model>
+            <price currency="лв"> 4200</price>
+            <color>Черен</color>
+            <image>Canon_EOS_R5.jpg</image>
+        <features>
+
+            <effective_pixels px="мегапиксела"> 45 </effective_pixels>
+            <wi-fi has="Yes"/>
+            <processor>DIGIC X</processor>
+            <display>Clear View LCD II</display>
+            <video max-duration="29:59">8K/4K/Full HD</video>
+
+        </features>
+
+            <physical-specifications>
+                <size s_unit="mm"> 138,5 x 97,5 x 88</size>
+                <weight w_unit="g">650</weight>
+
+            </physical-specifications>
+        <power_supply>
+            <battery>Акумулаторна литиево-йонна батерия LP-E6NH</battery>
+            <energy_saving>Захранването се изключва след 30 секунди, 1, 3, 5, 10 или 30 минути</energy_saving>
+            <charger> Зарядно устройство за батерии LC-E6E (в комплекта), AC адаптер AC-E6N и DC съединител DR-E6</charger>
+        </power_supply>
+
+
+        </camera>
+
+    </cameras>
+
+</catalog>

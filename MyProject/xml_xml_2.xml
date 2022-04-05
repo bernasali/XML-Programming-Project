@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <cameras>
+        <camera>
+            <brand_info>
+                <brand>Nikon</brand>
+                <realise_date>23.12.2021</realise_date>
+            </brand_info>
+            <features>
+                <effective_pixels>46</effective_pixels>
+                <wi_fi /><processor>DIGIC X</processor>
+                <display>сензорен TFT LCD с приблиз. 2 100 000 точки</display>
+                <video>8K UHD/4K UHD</video>
+            </features>
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия EN-EL18d</battery>
+                <energy_saving>Захранването се изключва след 30 секунди, 1, 3, 5, 10 или 30 минути</energy_saving>
+                <charger> Захранващ AC адаптер EH-7P; EH-6d; изисква конектор за захранването EP-6a</charger>
+            </power_supply>
+        </camera>
+        <camera>
+            <brand_info>
+                <brand>Nikon</brand>
+                <realise_date>06.01.2020</realise_date>
+            </brand_info>
+            <features>
+                <effective_pixels>24</effective_pixels>
+                <wi_fi /><processor>AF-S обектив тип G с вграден процесор и бийонет F</processor>
+                <display>сензорен TFT LCD дисплей с приблиз. 2 359 000 точки (XGA)</display>
+                <video>4K UHD</video>
+            </features>
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия EN-EL15b</battery>
+                <energy_saving>Захранването се изключва след 30 секунди, 1, 3, 5, 10 или 30 минути</energy_saving>
+                <charger>Захранващ адаптер EH-5d/EH-5c/EH-5b; изисква конектор за захранването EP-5B </charger>
+            </power_supply>
+        </camera>
+        <camera>
+            <brand_info>
+                <brand>Nikon</brand>
+                <realise_date>31.05.2017</realise_date>
+            </brand_info>
+            <features>
+                <effective_pixels>16</effective_pixels>
+                <wi_fi /><processor>AF-S обектив тип G с вграден процесор и бийонет F</processor>
+                <display>7,5-сантиметров диагонал с приблизително 921 000 точки</display>
+                <video>4K UHD</video>
+            </features>
+            <power_supply>
+                <battery>Акумулаторна литиево-йонна батерия EN-EL12</battery>
+                <energy_saving>Захранването се изключва след  3, 5, 10 минути</energy_saving>
+                <charger>Захранващ адаптер за зареждане на батерията във фотоапарата EH-73P </charger>
+            </power_supply>
+        </camera>
+    </cameras>
+</catalog>
+

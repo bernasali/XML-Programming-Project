@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<?xml-stylesheet type="txt/xsl" href="xml_html_1.xsl" ?>
+
+<!DOCTYPE catalog SYSTEM "cameras-catalog.dtd">
+
+<catalog>
+    <brand_info>
+        <brand>Instax</brand>
+        <realise_date>10.10.1998</realise_date>
+    </brand_info>
+
+    <cameras>
+        <camera type="Instant" resistance="dust-proof">
+            <brand_info>
+                <brand>Instax</brand>
+                <realise_date>18.03.2020</realise_date>
+
+            </brand_info>
+            <model>mini 11</model>
+            <price currency="лв">200</price>
+            <color>Лилав</color>
+            <image>camera_images/mini11.jpg</image>
+            <features>
+
+                <effective_pixels px="мегапиксела">10</effective_pixels>
+                <wi-fi has="No"/>
+                <processor>DIGIC 4+</processor>
+                <display>Оптична тръба</display>
+                <video max-duration="00:00">Няма опция за  видео</video>
+
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">140 x 70 x 130</size>
+                <weight w_unit="g">435</weight>
+
+            </physical-specifications>
+            <power_supply>
+                <battery>Въглерод-Цинкова (R03)</battery>
+                <energy_saving>Няма</energy_saving>
+                <charger>Батерии</charger>
+            </power_supply>
+
+
+        </camera>
+
+        <camera type="Instant" resistance="dust-proof">
+
+            <brand_info>
+                <brand>Instax</brand>
+                <realise_date>05.07.2015</realise_date>
+            </brand_info>
+
+            <model>Wide 300</model>
+            <price currency="лв">267</price>
+            <color>Тофи</color>
+            <image>camera_images/Wide 300.jpg</image>
+            <features>
+
+                <effective_pixels px="мегапиксела"> 10 </effective_pixels>
+                <wi-fi has="No"/>
+                <processor>DIGIC 4</processor>
+                <display>Оптична тръба</display>
+                <video max-duration="00:00">Няма опция за  видео</video>
+
+            </features>
+
+            <physical-specifications>
+                <size s_unit="mm">167.8 x 120.9 x 94.7</size>
+                <weight w_unit="g">612</weight>
+            </physical-specifications>
+
+            <power_supply>
+                <battery>Въглерод-Цинкова (R03)</battery>
+                <energy_saving>Няма</energy_saving>
+                <charger>Батерии</charger>
+            </power_supply>
+
+
+        </camera>
+
+    </cameras>
+
+</catalog>
